@@ -28,19 +28,19 @@
 
 ---
 
-## ABOUT THIS REPOSITORY
+## ✔️ ABOUT THIS REPOSITORY
 
 Welcome to the comprehensive repository dedicated to the immersive and transformative experience of the 1337 Pool at Campus 42. This repository serves as a valuable resource for all aspiring poolers who embark on this challenging and rewarding journey. Here, you will find a wealth of information, tools, and insights that will not only aid your learning but also emphasize the importance of integrity, originality, and the pursuit of knowledge.
 
 ---
 
-## UNDERSTANDING THE 1337 POOL
+## ✔️ UNDERSTANDING THE 1337 POOL
 
 The 1337 Pool, a cornerstone of Campus 42's innovative education model, is a rigorous and dynamic program designed to cultivate the skills, mindset, and determination necessary to excel in the world of technology. Through a series of intensive challenges, coding exercises, and collaborative projects, participants are exposed to a holistic learning experience that fosters creativity, problem-solving, and resilience.
 
 ---
 
-## THE POINT BEHIND THIS REPOSITORY
+## ✔️ THE POINT BEHIND THIS REPOSITORY
 
 This repository stands as a testament to the values of genuine learning and personal growth within the 1337 Pool. It is not just a collection of solutions or shortcuts, but a curated space that encourages poolers to grasp concepts, experiment with code, and develop a deep understanding of the subjects at hand. Instead of promoting mere replication, this repository encourages critical thinking, experimentation, and the development of unique solutions.
 
