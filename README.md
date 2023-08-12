@@ -126,4 +126,3 @@ The blackhole is a system that motivates students to stay active and not get laz
     </a>
     
     `discord id : Its_Infamous`
----
