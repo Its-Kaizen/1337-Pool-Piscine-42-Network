@@ -73,7 +73,7 @@ It's pretty straightforward. You get a month, divided into four weeks. During th
 
 </p>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/17186736/179362743-0bbc48e1-ef7d-433b-b2fe-c285d95d514f.png" width="800">
+<img src="https://i.ibb.co/cvtZG8k/holy-graph.png" width="800">
 </p>
 
 When you're a student, you'll work on a bunch of projects called common core. How long it takes depends on how fast you're learning. Each time you finish a project, you earn extra time to stay in the program and avoid getting into the BLACKHOLE ! , Once you're done with the common core, you look for an internship. After that, you can decide if you want to keep studying and go deeper into advanced stuff at school or start working.
