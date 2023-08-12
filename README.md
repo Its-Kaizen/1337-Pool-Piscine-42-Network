@@ -50,6 +50,7 @@ This repository stands as a testament to the values of genuine learning and pers
 
 > 💻[C Basics (Darija)](https://www.youtube.com/playlist?list=PLZpzLuUp9qXxKSkKT43ppqzb8c2ahO4VS)
 
+> 💻[GRADEME (exam simulator for practicing)](https://grademe.fr/)
 ---
 
 </p>
