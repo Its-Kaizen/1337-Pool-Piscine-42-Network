@@ -18,7 +18,7 @@
 ```
 ---
 <p align="center">
-  <b><i>"Copies fade, but true understanding shines forever."😉</b></i>
+  <b><i>"Copies fade, but true understanding shines forever."</b></i>😉
 </p>
 
 </p>
