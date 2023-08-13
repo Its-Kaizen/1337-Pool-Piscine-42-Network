@@ -66,7 +66,7 @@ Embrace the spirit of the 1337 Pool, leverage this repository as a powerful tool
 
 ## 🏊 EXPLAINING THE POOL
 
-It's pretty straightforward. You get a month, divided into four weeks. During this time, you'll work on different projects that help you improve your coding skills and get a handle on concepts like loops, pointers, dealing with information, and basic memory stuff (nothing too complicated). Expect a test every Friday, three in total. just make sure you solve at least two exercises for each.
+It's pretty straightforward. You get a month, divided into four weeks. During this time, you'll work on different projects that help you improve your coding skills and get a handle on concepts like loops, pointers, dealing with information, and basic memory stuff (nothing too complicated). Expect a test every Friday, four in total. just make sure you solve at least two exercises for each.
 
 ---
 
