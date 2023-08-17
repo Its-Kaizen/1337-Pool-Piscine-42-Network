@@ -1,5 +1,5 @@
 # 1337-Pool-Piscine-42-Network
-guide and solutions for pool - piscine (07/2023 Bengruir Campus)
+Guide and solutions for Pool - Piscine (07/2023 Bengruir Campus)
 
 ## ❗❗ Disclaimer : YOU ARE HERE TO LEARN, DON'T COPY (OR ⚠️ ☠️) ❗❗
 ```
