@@ -86,7 +86,7 @@ This repository stands as a testament to the values of genuine learning and pers
 ## 🔴 HOW TO LOGIN TO EXAM
 ### **Login into the exam :** <br/>
 
-1- Login to your session with **exam/exam** (user name : exam | password : exam) <br/>
+1- Login to your session with **exam/exam** (username : exam | password : exam) <br/>
 2- Open your terminal and write **examshell** <br/>
 3- After examshell, it gonna ask you to put your login (you **INTRA LOGIN**) <br/>
 4- Good luck Solider. <br/>
@@ -163,6 +163,9 @@ The blackhole is a system that motivates students to stay active and not get laz
 <p align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG16YWRxM2lvbW8za3E1bjFpNWp3ZTRhbGx1dGM3b2c5YmJ5bnVsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q2D5lSYzwnP4LbSPhF/giphy.gif" width="800">
 </p>
+<h1 align="center">
+  GOOD LUCK
+</h1>
 
 ## Author
 
@@ -178,4 +181,4 @@ The blackhole is a system that motivates students to stay active and not get laz
         <img alt="Discord Profile" src="https://img.shields.io/badge/-Discord-0072b1?style=flat&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/&color=7289da" />
     </a>
     
-    `discord id : Its_Infamous`
+    `discord id : its_infamous`
