@@ -137,7 +137,7 @@ When you're a student, you'll work on a bunch of projects called common core. Ho
 
 </p>
 <p align="center">
-<img src="https://i.pinimg.com/originals/54/ee/5c/54ee5cd32e3a6991e3271c0b23b22bb0.gif" width="800">
+<img src="https://media.tenor.com/t76aYe97PhgAAAAC/hole-black-hole.gif" width="1000">
 </p>
 
 The blackhole is a system that motivates students to stay active and not get lazy with their projects. It's kind of like a game. The more projects you finish and get approved, the longer you can stay in school. But if you don't finish projects and just stay lazy, you'll use up all your chances and get kicked out of school forever.
